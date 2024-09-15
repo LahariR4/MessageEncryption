@@ -1,0 +1,7 @@
+com/assignment/message/controller/MessageController.class
+com/assignment/message/entity/MessageRequest.class
+com/assignment/message/entity/MessageResponse.class
+com/assignment/message/dao/Message.class
+com/assignment/message/service/MessageService.class
+com/assignment/message/repository/MessageRepository.class
+com/assignment/message/MessageApplication.class

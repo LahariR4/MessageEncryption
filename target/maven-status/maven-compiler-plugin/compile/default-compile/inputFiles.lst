@@ -1,0 +1,7 @@
+/Users/rajanalahari/Documents/Practice/message/src/main/java/com/assignment/message/MessageApplication.java
+/Users/rajanalahari/Documents/Practice/message/src/main/java/com/assignment/message/controller/MessageController.java
+/Users/rajanalahari/Documents/Practice/message/src/main/java/com/assignment/message/dao/Message.java
+/Users/rajanalahari/Documents/Practice/message/src/main/java/com/assignment/message/entity/MessageRequest.java
+/Users/rajanalahari/Documents/Practice/message/src/main/java/com/assignment/message/entity/MessageResponse.java
+/Users/rajanalahari/Documents/Practice/message/src/main/java/com/assignment/message/repository/MessageRepository.java
+/Users/rajanalahari/Documents/Practice/message/src/main/java/com/assignment/message/service/MessageService.java
